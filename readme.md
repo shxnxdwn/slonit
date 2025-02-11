@@ -1,1 +1,8 @@
 # Slonit
+
+---
+
+### Выполненные задания:
+
+- Задания 1-3 выполнены
+- [Задание 4](https://github.com/shxnxdwn/slonit/blob/main/tasks/task-4/git-commands.md)
