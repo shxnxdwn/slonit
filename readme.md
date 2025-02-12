@@ -16,3 +16,4 @@
 - Задание 12 выполнено
 - [Задание 13](https://github.com/shxnxdwn/slonit/blob/main/tasks/task-13/app.js)
 - [Задание 14](https://github.com/shxnxdwn/slonit/blob/main/tasks/task-14/app.js)
+- [Задание 15](https://github.com/shxnxdwn/slonit/blob/main/tasks/task-15/app.js)
