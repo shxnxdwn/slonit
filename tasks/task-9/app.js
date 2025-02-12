@@ -22,7 +22,7 @@ const mySlice = (array, start = 0, end = array.length) => {
 
 const myIndexOf = (array, item, from = 0) => {
   let result = -1;
-  let start = from >= 0 ? from : Math.max(0, array.length + from);
+  const start = from >= 0 ? from : Math.max(0, array.length + from);
 
   for (let i = start; i < array.length; i++) {
     if (item === array[i]) {
@@ -37,7 +37,7 @@ const myIndexOf = (array, item, from = 0) => {
 const myIncludes = (array, item, from) => {
   const sameValueZero = (x, y) => x === y || (Number.isNaN(x) && Number.isNaN(y));
 
-  let start = from >= 0 ? from : Math.max(0, array.length + from);
+  const start = from >= 0 ? from : Math.max(0, array.length + from);
 
   if (start >= array.length) {
     return false;
